@@ -1,5 +1,5 @@
 
-# PDF to Email - Python
+# PDF a Email - Python
 
 Aplicación desarrollada en Python que permite extraer texto de documentos PDF y enviarlo automáticamente por correo electrónico, incluyendo el documento original como archivo adjunto.
 
