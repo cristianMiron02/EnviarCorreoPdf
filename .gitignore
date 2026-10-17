@@ -1,0 +1,14 @@
+# Contraseñas y configuración privada
+.env
+.env.*
+!.env.example
+*.key
+
+# Archivos Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Documentos privados
+*.pdf
